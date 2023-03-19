@@ -1,0 +1,1 @@
+# ortalama-varyans-standart-sapma-
