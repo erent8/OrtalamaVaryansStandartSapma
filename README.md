@@ -1,1 +1,1 @@
-# ortalama-varyans-standart-sapma-
+Bz matematiksel işlemleri hesaplayan program yazdım
